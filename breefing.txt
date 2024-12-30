@@ -1,0 +1,54 @@
+SERVIÇO
+- Landing page para prestação de serviços de criação de sites
+
+RESPONSÁVEL
+- eu
+
+TELAS
+- 1
+
+DISPOSITIVOS
+- desktop
+
+PRECISA DE PESQUISA PRÉVIA? FAZE DO PRODUTO ?
+- Sim, inicial.
+
+PRETENÇÃO DE INVESTIMENTO
+- R$0
+
+PRAZO
+- <=1sem
+
+NICHO
+- Prestação de serviços
+
+TEMPO DE ATUAÇÃO
+- 0
+
+NUMERO DE FUNCIONÁRIOS
+- 1
+
+RESUMO DO PRODUTO
+- Um website no estilo de portfólio para anunciar serviços de freelancer
+para de criação de sites.
+
+PUBLICO ALVO
+- Pessoas que querem criar um site.
+
+OBJETIVO
+- Atrair clientes que visam criar sites para seu produto ou negócio.
+
+POSSUI MARCA
+- Não
+
+PREFERENCIAS VISUAIS (TAMANHOS, CORES, FONTES, ETC.)
+- Não
+
+MODELO DO SITE
+- Landing page
+
+SESSÕES
+- inicio
+- sobre
+- serviços
+- contato
